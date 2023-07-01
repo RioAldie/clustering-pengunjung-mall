@@ -1,200 +1,200 @@
 
-{'ID_Pelanggan': '101', 'Gender': 'Wanita', 'Usia': '23', 'Pendapatan_Tahunan_Ribuan_USD': '62', 'Pengeluaran_USD': '41'}
-,
-{'ID_Pelanggan': '102', 'Gender': 'Wanita', 'Usia': '49', 'Pendapatan_Tahunan_Ribuan_USD': '62', 'Pengeluaran_USD': '48'}
-,
-{'ID_Pelanggan': '103', 'Gender': 'Pria', 'Usia': '67', 'Pendapatan_Tahunan_Ribuan_USD': '62', 'Pengeluaran_USD': '59'}
-,
-{'ID_Pelanggan': '104', 'Gender': 'Pria', 'Usia': '26', 'Pendapatan_Tahunan_Ribuan_USD': '62', 'Pengeluaran_USD': '55'}
-,
-{'ID_Pelanggan': '105', 'Gender': 'Pria', 'Usia': '49', 'Pendapatan_Tahunan_Ribuan_USD': '62', 'Pengeluaran_USD': '56'}
-,
-{'ID_Pelanggan': '106', 'Gender': 'Wanita', 'Usia': '21', 'Pendapatan_Tahunan_Ribuan_USD': '62', 'Pengeluaran_USD': '42'}
-,
-{'ID_Pelanggan': '107', 'Gender': 'Wanita', 'Usia': '66', 'Pendapatan_Tahunan_Ribuan_USD': '63', 'Pengeluaran_USD': '50'}
-,
-{'ID_Pelanggan': '108', 'Gender': 'Pria', 'Usia': '54', 'Pendapatan_Tahunan_Ribuan_USD': '63', 'Pengeluaran_USD': '46'}
-,
-{'ID_Pelanggan': '109', 'Gender': 'Pria', 'Usia': '68', 'Pendapatan_Tahunan_Ribuan_USD': '63', 'Pengeluaran_USD': '43'}
-,
-{'ID_Pelanggan': '110', 'Gender': 'Pria', 'Usia': '66', 'Pendapatan_Tahunan_Ribuan_USD': '63', 'Pengeluaran_USD': '48'}
-,
-{'ID_Pelanggan': '111', 'Gender': 'Pria', 'Usia': '65', 'Pendapatan_Tahunan_Ribuan_USD': '63', 'Pengeluaran_USD': '52'}
-,
-{'ID_Pelanggan': '112', 'Gender': 'Wanita', 'Usia': '19', 'Pendapatan_Tahunan_Ribuan_USD': '63', 'Pengeluaran_USD': '54'}
-,
-{'ID_Pelanggan': '113', 'Gender': 'Wanita', 'Usia': '38', 'Pendapatan_Tahunan_Ribuan_USD': '64', 'Pengeluaran_USD': '42'}
-,
-{'ID_Pelanggan': '114', 'Gender': 'Pria', 'Usia': '19', 'Pendapatan_Tahunan_Ribuan_USD': '64', 'Pengeluaran_USD': '46'}
-,
-{'ID_Pelanggan': '115', 'Gender': 'Wanita', 'Usia': '18', 'Pendapatan_Tahunan_Ribuan_USD': '65', 'Pengeluaran_USD': '48'}
-,
-{'ID_Pelanggan': '116', 'Gender': 'Wanita', 'Usia': '19', 'Pendapatan_Tahunan_Ribuan_USD': '65', 'Pengeluaran_USD': '50'}
-,
-{'ID_Pelanggan': '117', 'Gender': 'Wanita', 'Usia': '63', 'Pendapatan_Tahunan_Ribuan_USD': '65', 'Pengeluaran_USD': '43'}
-,
-{'ID_Pelanggan': '118', 'Gender': 'Wanita', 'Usia': '49', 'Pendapatan_Tahunan_Ribuan_USD': '65', 'Pengeluaran_USD': '59'}
-,
-{'ID_Pelanggan': '119', 'Gender': 'Wanita', 'Usia': '51', 'Pendapatan_Tahunan_Ribuan_USD': '67', 'Pengeluaran_USD': '43'}
-,
-{'ID_Pelanggan': '120', 'Gender': 'Wanita', 'Usia': '50', 'Pendapatan_Tahunan_Ribuan_USD': '67', 'Pengeluaran_USD': '57'}
-,
-{'ID_Pelanggan': '121', 'Gender': 'Pria', 'Usia': '27', 'Pendapatan_Tahunan_Ribuan_USD': '67', 'Pengeluaran_USD': '56'}
-,
-{'ID_Pelanggan': '122', 'Gender': 'Wanita', 'Usia': '38', 'Pendapatan_Tahunan_Ribuan_USD': '67', 'Pengeluaran_USD': '40'}
-,
-{'ID_Pelanggan': '123', 'Gender': 'Wanita', 'Usia': '40', 'Pendapatan_Tahunan_Ribuan_USD': '69', 'Pengeluaran_USD': '58'}
-,
-{'ID_Pelanggan': '124', 'Gender': 'Pria', 'Usia': '39', 'Pendapatan_Tahunan_Ribuan_USD': '69', 'Pengeluaran_USD': '91'}
-,
-{'ID_Pelanggan': '125', 'Gender': 'Wanita', 'Usia': '23', 'Pendapatan_Tahunan_Ribuan_USD': '70', 'Pengeluaran_USD': '29'}
-,
-{'ID_Pelanggan': '126', 'Gender': 'Wanita', 'Usia': '31', 'Pendapatan_Tahunan_Ribuan_USD': '70', 'Pengeluaran_USD': '77'}
-,
-{'ID_Pelanggan': '127', 'Gender': 'Pria', 'Usia': '43', 'Pendapatan_Tahunan_Ribuan_USD': '71', 'Pengeluaran_USD': '35'}
-,
-{'ID_Pelanggan': '128', 'Gender': 'Pria', 'Usia': '40', 'Pendapatan_Tahunan_Ribuan_USD': '71', 'Pengeluaran_USD': '95'}
-,
-{'ID_Pelanggan': '129', 'Gender': 'Pria', 'Usia': '59', 'Pendapatan_Tahunan_Ribuan_USD': '71', 'Pengeluaran_USD': '11'}
-,
-{'ID_Pelanggan': '130', 'Gender': 'Pria', 'Usia': '38', 'Pendapatan_Tahunan_Ribuan_USD': '71', 'Pengeluaran_USD': '75'}
-,
-{'ID_Pelanggan': '131', 'Gender': 'Pria', 'Usia': '47', 'Pendapatan_Tahunan_Ribuan_USD': '71', 'Pengeluaran_USD': '9'}
-,
-{'ID_Pelanggan': '132', 'Gender': 'Pria', 'Usia': '39', 'Pendapatan_Tahunan_Ribuan_USD': '71', 'Pengeluaran_USD': '75'}
-,
-{'ID_Pelanggan': '133', 'Gender': 'Wanita', 'Usia': '25', 'Pendapatan_Tahunan_Ribuan_USD': '72', 'Pengeluaran_USD': '34'}
-,
-{'ID_Pelanggan': '134', 'Gender': 'Wanita', 'Usia': '31', 'Pendapatan_Tahunan_Ribuan_USD': '72', 'Pengeluaran_USD': '71'}
-,
-{'ID_Pelanggan': '135', 'Gender': 'Pria', 'Usia': '20', 'Pendapatan_Tahunan_Ribuan_USD': '73', 'Pengeluaran_USD': '5'}
-,
-{'ID_Pelanggan': '136', 'Gender': 'Wanita', 'Usia': '29', 'Pendapatan_Tahunan_Ribuan_USD': '73', 'Pengeluaran_USD': '88'}
-,
-{'ID_Pelanggan': '137', 'Gender': 'Wanita', 'Usia': '44', 'Pendapatan_Tahunan_Ribuan_USD': '73', 'Pengeluaran_USD': '7'}
-,
-{'ID_Pelanggan': '138', 'Gender': 'Pria', 'Usia': '32', 'Pendapatan_Tahunan_Ribuan_USD': '73', 'Pengeluaran_USD': '73'}
-,
-{'ID_Pelanggan': '139', 'Gender': 'Pria', 'Usia': '19', 'Pendapatan_Tahunan_Ribuan_USD': '74', 'Pengeluaran_USD': '10'}
-,
-{'ID_Pelanggan': '140', 'Gender': 'Wanita', 'Usia': '35', 'Pendapatan_Tahunan_Ribuan_USD': '74', 'Pengeluaran_USD': '72'}
-,
-{'ID_Pelanggan': '141', 'Gender': 'Wanita', 'Usia': '57', 'Pendapatan_Tahunan_Ribuan_USD': '75', 'Pengeluaran_USD': '5'}
-,
-{'ID_Pelanggan': '142', 'Gender': 'Pria', 'Usia': '32', 'Pendapatan_Tahunan_Ribuan_USD': '75', 'Pengeluaran_USD': '93'}
-,
-{'ID_Pelanggan': '143', 'Gender': 'Wanita', 'Usia': '28', 'Pendapatan_Tahunan_Ribuan_USD': '76', 'Pengeluaran_USD': '40'}
-,
-{'ID_Pelanggan': '144', 'Gender': 'Wanita', 'Usia': '32', 'Pendapatan_Tahunan_Ribuan_USD': '76', 'Pengeluaran_USD': '87'}
-,
-{'ID_Pelanggan': '145', 'Gender': 'Pria', 'Usia': '25', 'Pendapatan_Tahunan_Ribuan_USD': '77', 'Pengeluaran_USD': '12'}
-,
-{'ID_Pelanggan': '146', 'Gender': 'Pria', 'Usia': '28', 'Pendapatan_Tahunan_Ribuan_USD': '77', 'Pengeluaran_USD': '97'}
-,
-{'ID_Pelanggan': '147', 'Gender': 'Pria', 'Usia': '48', 'Pendapatan_Tahunan_Ribuan_USD': '77', 'Pengeluaran_USD': '36'}
-,
-{'ID_Pelanggan': '148', 'Gender': 'Wanita', 'Usia': '32', 'Pendapatan_Tahunan_Ribuan_USD': '77', 'Pengeluaran_USD': '74'}
-,
-{'ID_Pelanggan': '149', 'Gender': 'Wanita', 'Usia': '34', 'Pendapatan_Tahunan_Ribuan_USD': '78', 'Pengeluaran_USD': '22'}
-,
-{'ID_Pelanggan': '150', 'Gender': 'Pria', 'Usia': '34', 'Pendapatan_Tahunan_Ribuan_USD': '78', 'Pengeluaran_USD': '90'}
-,
-{'ID_Pelanggan': '151', 'Gender': 'Pria', 'Usia': '43', 'Pendapatan_Tahunan_Ribuan_USD': '78', 'Pengeluaran_USD': '17'}
-,
-{'ID_Pelanggan': '152', 'Gender': 'Pria', 'Usia': '39', 'Pendapatan_Tahunan_Ribuan_USD': '78', 'Pengeluaran_USD': '88'}
-,
-{'ID_Pelanggan': '153', 'Gender': 'Wanita', 'Usia': '44', 'Pendapatan_Tahunan_Ribuan_USD': '78', 'Pengeluaran_USD': '20'}
-,
-{'ID_Pelanggan': '154', 'Gender': 'Wanita', 'Usia': '38', 'Pendapatan_Tahunan_Ribuan_USD': '78', 'Pengeluaran_USD': '76'}
-,
-{'ID_Pelanggan': '155', 'Gender': 'Wanita', 'Usia': '47', 'Pendapatan_Tahunan_Ribuan_USD': '78', 'Pengeluaran_USD': '16'}
-,
-{'ID_Pelanggan': '156', 'Gender': 'Wanita', 'Usia': '27', 'Pendapatan_Tahunan_Ribuan_USD': '78', 'Pengeluaran_USD': '89'}
-,
-{'ID_Pelanggan': '157', 'Gender': 'Pria', 'Usia': '37', 'Pendapatan_Tahunan_Ribuan_USD': '78', 'Pengeluaran_USD': '1'}
-,
-{'ID_Pelanggan': '158', 'Gender': 'Wanita', 'Usia': '30', 'Pendapatan_Tahunan_Ribuan_USD': '78', 'Pengeluaran_USD': '78'}
-,
-{'ID_Pelanggan': '159', 'Gender': 'Pria', 'Usia': '34', 'Pendapatan_Tahunan_Ribuan_USD': '78', 'Pengeluaran_USD': '1'}
-,
-{'ID_Pelanggan': '160', 'Gender': 'Wanita', 'Usia': '30', 'Pendapatan_Tahunan_Ribuan_USD': '78', 'Pengeluaran_USD': '73'}
-,
-{'ID_Pelanggan': '161', 'Gender': 'Wanita', 'Usia': '56', 'Pendapatan_Tahunan_Ribuan_USD': '79', 'Pengeluaran_USD': '35'}
-,
-{'ID_Pelanggan': '162', 'Gender': 'Wanita', 'Usia': '29', 'Pendapatan_Tahunan_Ribuan_USD': '79', 'Pengeluaran_USD': '83'}
-,
-{'ID_Pelanggan': '163', 'Gender': 'Pria', 'Usia': '19', 'Pendapatan_Tahunan_Ribuan_USD': '81', 'Pengeluaran_USD': '5'}
-,
-{'ID_Pelanggan': '164', 'Gender': 'Wanita', 'Usia': '31', 'Pendapatan_Tahunan_Ribuan_USD': '81', 'Pengeluaran_USD': '93'}
-,
-{'ID_Pelanggan': '165', 'Gender': 'Pria', 'Usia': '50', 'Pendapatan_Tahunan_Ribuan_USD': '85', 'Pengeluaran_USD': '26'}
-,
-{'ID_Pelanggan': '166', 'Gender': 'Wanita', 'Usia': '36', 'Pendapatan_Tahunan_Ribuan_USD': '85', 'Pengeluaran_USD': '75'}
-,
-{'ID_Pelanggan': '167', 'Gender': 'Pria', 'Usia': '42', 'Pendapatan_Tahunan_Ribuan_USD': '86', 'Pengeluaran_USD': '20'}
-,
-{'ID_Pelanggan': '168', 'Gender': 'Wanita', 'Usia': '33', 'Pendapatan_Tahunan_Ribuan_USD': '86', 'Pengeluaran_USD': '95'}
-,
-{'ID_Pelanggan': '169', 'Gender': 'Wanita', 'Usia': '36', 'Pendapatan_Tahunan_Ribuan_USD': '87', 'Pengeluaran_USD': '27'}
-,
-{'ID_Pelanggan': '170', 'Gender': 'Pria', 'Usia': '32', 'Pendapatan_Tahunan_Ribuan_USD': '87', 'Pengeluaran_USD': '63'}
-,
-{'ID_Pelanggan': '171', 'Gender': 'Pria', 'Usia': '40', 'Pendapatan_Tahunan_Ribuan_USD': '87', 'Pengeluaran_USD': '13'}
-,
-{'ID_Pelanggan': '172', 'Gender': 'Pria', 'Usia': '28', 'Pendapatan_Tahunan_Ribuan_USD': '87', 'Pengeluaran_USD': '75'}
-,
-{'ID_Pelanggan': '173', 'Gender': 'Pria', 'Usia': '36', 'Pendapatan_Tahunan_Ribuan_USD': '87', 'Pengeluaran_USD': '10'}
-,
-{'ID_Pelanggan': '174', 'Gender': 'Pria', 'Usia': '36', 'Pendapatan_Tahunan_Ribuan_USD': '87', 'Pengeluaran_USD': '92'}
-,
-{'ID_Pelanggan': '175', 'Gender': 'Wanita', 'Usia': '52', 'Pendapatan_Tahunan_Ribuan_USD': '88', 'Pengeluaran_USD': '13'}
-,
-{'ID_Pelanggan': '176', 'Gender': 'Wanita', 'Usia': '30', 'Pendapatan_Tahunan_Ribuan_USD': '88', 'Pengeluaran_USD': '86'}
-,
-{'ID_Pelanggan': '177', 'Gender': 'Pria', 'Usia': '58', 'Pendapatan_Tahunan_Ribuan_USD': '88', 'Pengeluaran_USD': '15'}
-,
-{'ID_Pelanggan': '178', 'Gender': 'Pria', 'Usia': '27', 'Pendapatan_Tahunan_Ribuan_USD': '88', 'Pengeluaran_USD': '69'}
-,
-{'ID_Pelanggan': '179', 'Gender': 'Pria', 'Usia': '59', 'Pendapatan_Tahunan_Ribuan_USD': '93', 'Pengeluaran_USD': '14'}
-,
-{'ID_Pelanggan': '180', 'Gender': 'Pria', 'Usia': '35', 'Pendapatan_Tahunan_Ribuan_USD': '93', 'Pengeluaran_USD': '90'}
-,
-{'ID_Pelanggan': '181', 'Gender': 'Wanita', 'Usia': '37', 'Pendapatan_Tahunan_Ribuan_USD': '97', 'Pengeluaran_USD': '32'}
-,
-{'ID_Pelanggan': '182', 'Gender': 'Wanita', 'Usia': '32', 'Pendapatan_Tahunan_Ribuan_USD': '97', 'Pengeluaran_USD': '86'}
-,
-{'ID_Pelanggan': '183', 'Gender': 'Pria', 'Usia': '46', 'Pendapatan_Tahunan_Ribuan_USD': '98', 'Pengeluaran_USD': '15'}
-,
-{'ID_Pelanggan': '184', 'Gender': 'Wanita', 'Usia': '29', 'Pendapatan_Tahunan_Ribuan_USD': '98', 'Pengeluaran_USD': '88'}
-,
-{'ID_Pelanggan': '185', 'Gender': 'Wanita', 'Usia': '41', 'Pendapatan_Tahunan_Ribuan_USD': '99', 'Pengeluaran_USD': '39'}
-,
-{'ID_Pelanggan': '186', 'Gender': 'Pria', 'Usia': '30', 'Pendapatan_Tahunan_Ribuan_USD': '99', 'Pengeluaran_USD': '97'}
-,
-{'ID_Pelanggan': '187', 'Gender': 'Wanita', 'Usia': '54', 'Pendapatan_Tahunan_Ribuan_USD': '101', 'Pengeluaran_USD': '24'}
-,
-{'ID_Pelanggan': '188', 'Gender': 'Pria', 'Usia': '28', 'Pendapatan_Tahunan_Ribuan_USD': '101', 'Pengeluaran_USD': '68'}
-,
-{'ID_Pelanggan': '189', 'Gender': 'Wanita', 'Usia': '41', 'Pendapatan_Tahunan_Ribuan_USD': '103', 'Pengeluaran_USD': '17'}
-,
-{'ID_Pelanggan': '190', 'Gender': 'Wanita', 'Usia': '36', 'Pendapatan_Tahunan_Ribuan_USD': '103', 'Pengeluaran_USD': '85'}
-,
-{'ID_Pelanggan': '191', 'Gender': 'Wanita', 'Usia': '34', 'Pendapatan_Tahunan_Ribuan_USD': '103', 'Pengeluaran_USD': '23'}
-,
-{'ID_Pelanggan': '192', 'Gender': 'Wanita', 'Usia': '32', 'Pendapatan_Tahunan_Ribuan_USD': '103', 'Pengeluaran_USD': '69'}
-,
-{'ID_Pelanggan': '193', 'Gender': 'Pria', 'Usia': '33', 'Pendapatan_Tahunan_Ribuan_USD': '113', 'Pengeluaran_USD': '8'}
-,
-{'ID_Pelanggan': '194', 'Gender': 'Wanita', 'Usia': '38', 'Pendapatan_Tahunan_Ribuan_USD': '113', 'Pengeluaran_USD': '91'}
-,
-{'ID_Pelanggan': '195', 'Gender': 'Wanita', 'Usia': '47', 'Pendapatan_Tahunan_Ribuan_USD': '120', 'Pengeluaran_USD': '16'}
-,
-{'ID_Pelanggan': '196', 'Gender': 'Wanita', 'Usia': '35', 'Pendapatan_Tahunan_Ribuan_USD': '120', 'Pengeluaran_USD': '79'}
-,
-{'ID_Pelanggan': '197', 'Gender': 'Wanita', 'Usia': '45', 'Pendapatan_Tahunan_Ribuan_USD': '126', 'Pengeluaran_USD': '28'}
-,
-{'ID_Pelanggan': '198', 'Gender': 'Pria', 'Usia': '32', 'Pendapatan_Tahunan_Ribuan_USD': '126', 'Pengeluaran_USD': '74'}
-,
-{'ID_Pelanggan': '199', 'Gender': 'Pria', 'Usia': '32', 'Pendapatan_Tahunan_Ribuan_USD': '137', 'Pengeluaran_USD': '18'}
-,
-{'ID_Pelanggan': '200', 'Gender': 'Pria', 'Usia': '30', 'Pendapatan_Tahunan_Ribuan_USD': '137', 'Pengeluaran_USD': '83'}
+ ['23', '62', '41']
+, 
+ ['49', '62', '48']
+, 
+ ['67', '62', '59']
+, 
+ ['26', '62', '55']
+, 
+ ['49', '62', '56']
+, 
+ ['21', '62', '42']
+, 
+ ['66', '63', '50']
+, 
+ ['54', '63', '46']
+, 
+ ['68', '63', '43']
+, 
+ ['66', '63', '48']
+, 
+ ['65', '63', '52']
+, 
+ ['19', '63', '54']
+, 
+ ['38', '64', '42']
+, 
+ ['19', '64', '46']
+, 
+ ['18', '65', '48']
+, 
+ ['19', '65', '50']
+, 
+ ['63', '65', '43']
+, 
+ ['49', '65', '59']
+, 
+ ['51', '67', '43']
+, 
+ ['50', '67', '57']
+, 
+ ['27', '67', '56']
+, 
+ ['38', '67', '40']
+, 
+ ['40', '69', '58']
+, 
+ ['39', '69', '91']
+, 
+ ['23', '70', '29']
+, 
+ ['31', '70', '77']
+, 
+ ['43', '71', '35']
+, 
+ ['40', '71', '95']
+, 
+ ['59', '71', '11']
+, 
+ ['38', '71', '75']
+, 
+ ['47', '71', '9']
+, 
+ ['39', '71', '75']
+, 
+ ['25', '72', '34']
+, 
+ ['31', '72', '71']
+, 
+ ['20', '73', '5']
+, 
+ ['29', '73', '88']
+, 
+ ['44', '73', '7']
+, 
+ ['32', '73', '73']
+, 
+ ['19', '74', '10']
+, 
+ ['35', '74', '72']
+, 
+ ['57', '75', '5']
+, 
+ ['32', '75', '93']
+, 
+ ['28', '76', '40']
+, 
+ ['32', '76', '87']
+, 
+ ['25', '77', '12']
+, 
+ ['28', '77', '97']
+, 
+ ['48', '77', '36']
+, 
+ ['32', '77', '74']
+, 
+ ['34', '78', '22']
+, 
+ ['34', '78', '90']
+, 
+ ['43', '78', '17']
+, 
+ ['39', '78', '88']
+, 
+ ['44', '78', '20']
+, 
+ ['38', '78', '76']
+, 
+ ['47', '78', '16']
+, 
+ ['27', '78', '89']
+, 
+ ['37', '78', '1']
+, 
+ ['30', '78', '78']
+, 
+ ['34', '78', '1']
+, 
+ ['30', '78', '73']
+, 
+ ['56', '79', '35']
+, 
+ ['29', '79', '83']
+, 
+ ['19', '81', '5']
+, 
+ ['31', '81', '93']
+, 
+ ['50', '85', '26']
+, 
+ ['36', '85', '75']
+, 
+ ['42', '86', '20']
+, 
+ ['33', '86', '95']
+, 
+ ['36', '87', '27']
+, 
+ ['32', '87', '63']
+, 
+ ['40', '87', '13']
+, 
+ ['28', '87', '75']
+, 
+ ['36', '87', '10']
+, 
+ ['36', '87', '92']
+, 
+ ['52', '88', '13']
+, 
+ ['30', '88', '86']
+, 
+ ['58', '88', '15']
+, 
+ ['27', '88', '69']
+, 
+ ['59', '93', '14']
+, 
+ ['35', '93', '90']
+, 
+ ['37', '97', '32']
+, 
+ ['32', '97', '86']
+, 
+ ['46', '98', '15']
+, 
+ ['29', '98', '88']
+, 
+ ['41', '99', '39']
+, 
+ ['30', '99', '97']
+, 
+ ['54', '101', '24']
+, 
+ ['28', '101', '68']
+, 
+ ['41', '103', '17']
+, 
+ ['36', '103', '85']
+, 
+ ['34', '103', '23']
+, 
+ ['32', '103', '69']
+, 
+ ['33', '113', '8']
+, 
+ ['38', '113', '91']
+, 
+ ['47', '120', '16']
+, 
+ ['35', '120', '79']
+, 
+ ['45', '126', '28']
+, 
+ ['32', '126', '74']
+, 
+ ['32', '137', '18']
+, 
+ ['30', '137', '83']
